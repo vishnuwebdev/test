@@ -18,7 +18,7 @@ import Slider from '@mui/material/Slider';
 const Mui = () => {
   return (
     // <Slider defaultValue={30} className="text-teal-600" />
-      <Button
+      <Button 
             // variant="secondary"
             color="default"
             // size="medium"
